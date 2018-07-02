@@ -1,0 +1,6 @@
+.modal-open .modal {
+    overflow-y: scroll;
+}
+.close{
+    opacity: 1;
+}

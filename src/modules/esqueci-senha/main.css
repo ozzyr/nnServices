@@ -1,0 +1,16 @@
+
+#esqueci-senha-modal .alert-warning{
+    background-color: rgba( 255, 243 ,205, 0.8);
+}
+
+#esqueci-senha-modal .modal-header span{
+    position: absolute;
+    left: 7px; 
+    float:left;
+    font-size: 30px;
+    transition: all 0.15;
+}
+
+#esqueci-senha-modal .modal-header span:hover{
+    color: darkgrey;
+}
